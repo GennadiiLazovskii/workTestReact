@@ -16,7 +16,7 @@ const Appfilter = () => {
       <button 
         className="btn btn-outline-light"
         type="button">
-          З/П больше 1000%
+          З/П больше 1000$
       </button> 
     </div>
   )
